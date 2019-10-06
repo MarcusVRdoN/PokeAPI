@@ -1,4 +1,4 @@
-# card-animations
+# PokéDex Vue.js
 
 ## Project setup
 ```
